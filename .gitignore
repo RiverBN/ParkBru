@@ -2,3 +2,18 @@ node_modules
 dist
 *.tsbuildinfo
 .openai/local
+AGENTS.md
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Logs and OS files
+*.log
+.DS_Store
+Thumbs.db
+
+# Editor settings (optional)
+.vscode/
+.idea/

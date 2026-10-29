@@ -1,1 +1,31 @@
-{"id":"/","name":"ParkBru","short_name":"ParkBru","description":"A smarter parking experience across Brunei","start_url":"/","scope":"/","display":"standalone","background_color":"#0b1015","theme_color":"#0b1015","icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"},{"src":"/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "id": "/",
+  "name": "ParkBru",
+  "short_name": "ParkBru",
+  "description": "A smarter parking experience across Brunei",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#090e1a",
+  "theme_color": "#090e1a",
+  "icons": [
+    {
+      "src": "/parkbru-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/parkbru-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/parkbru-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
