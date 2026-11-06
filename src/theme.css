@@ -1,0 +1,99 @@
+/* Figma palette applied to the responsive showcase layout. */
+:root{--lime:#00c68e;--muted:#98a3b6;--border:#23304b;--panel:#141c2e;background:#090e1a;color:#f5f6fa}
+body{background:#090e1a}
+.sidebar{background:#0d1423}
+.brand-mark{background:#00c68e;color:#04231c}
+.brand-dot,.nav-item.selected{color:#00d49a}
+.nav-item{color:#9ca6b9}
+.nav-item.selected{background:#003c365c}
+.workspace-label,.breadcrumb{color:#8290a8}
+.breadcrumb strong{color:#c2cbdd}
+.green-card{background:linear-gradient(135deg,#06322f,#102426);border-color:#175149}
+.green-card p,.hero p{color:#9ab9b7}
+.green-card>span:last-child{color:#00d49a}
+.support{color:#9ca6b9}
+.avatar,.header-avatar{background:#c8dcd5;color:#29443d;border-color:#49655e}
+.demo-badge{color:#9eb9b0}
+.demo-badge>span,.dot{background:#00c68e}
+.icon-button{color:#a3adc1}
+.icon-button:hover{background:#1d2940}
+.location-picker{background:#141c2e;border-color:#293851}
+.location-picker small{color:#8b98ae}
+.dropdown{background:#172238;border-color:#30425f}
+.dropdown button:hover{background:#003c36}
+.hero{background:#0c2b2b;border-color:#175249}
+.hero-kicker{color:#9ed9c8}
+.hero-kicker>span{background:#00c68e}
+.hero-foot{color:#80aa9f}
+.hero-art{background:radial-gradient(ellipse at center,#086f575e,transparent 65%)}
+.orbit{border-color:#00c68e1c}
+.floating-label{background:#123f36;border-color:#236e5a;color:#c4f4e1}
+.parking-tile{background:linear-gradient(120deg,#286b56,#174b40);border-color:#70bb9d;box-shadow:12px 18px 0 #062d2566,0 20px 35px #0005}
+.parking-tile>span{color:#c7f8e1aa}
+.tile-lines{border-color:#8cdfb780}
+.art-caption{color:#9ecab8}
+.art-caption>span{color:#6d9f91}
+.button{background:#0cba89;border-color:#0cba89;color:#fff}
+.button:hover{background:#0dcd98}
+.secondary{background:#19243a;border-color:#2f4161;color:#d7e0ee}
+.secondary:hover{background:#22364a}
+.lime{background:#003c365c;color:#00d49a}
+.stat-icon{background:#1d2a40;color:#a6b6d0}
+.stat-icon.lime{background:#003c365c;color:#00d49a}
+.blue{background:#1b3048;color:#8fbedf}
+.peach{background:#3b3038;color:#e0b4a0}
+.stat-pill{background:#053b30;color:#51dbb1}
+.square-button{border-color:#1b6657;color:#00d49a}
+.bar{background:#10b981}
+.bar.peak{background:#f44349}
+.bar.current{background:#f5a400}
+.forecast-tip{background:#292334;border-color:#8c691c}
+.tip-sun{color:#ffb000}
+.forecast-tip strong{color:#ffb000}
+.forecast-tip small{color:#c2b8b0}
+.forecast-tip>svg{color:#ffb000}
+.chart-key i{background:#10b981}
+.chart-key>span:nth-child(2) i{background:#f44349}
+.status-pill{background:#003c365c;border-color:#175c4c;color:#00d49a}
+.vehicle-icon{background:#0b3533;color:#6ee7bd}
+.plate{background:#1b263c;border-color:#334465}
+.session-location>svg{color:#00c68e}
+.parking-map{background-color:#141c2e;border-color:#23304b}
+.map-road{background:#2c2d35;border-color:#343b4f}
+.road-h span{background:#2c2d35;color:#8e9caf}
+.map-building{background:#253346;border-color:#3e5265;color:#92a8b7}
+.trees{color:#168b6b}
+.bay.free{background:#00c68e33;border-color:#00c68e}
+.bay.your-bay{background:#00c68e55;color:#9ff8dc}
+.map-pin{background:#00c68e;border-color:#064b3b;color:#062c22;box-shadow:0 0 0 10px #00c68e10}
+.map-label{background:#072c27e6;border-color:#087e62;color:#71edc6}
+.map-locate{background:#141c2e;border-color:#344765;color:#c1d3e4}
+.priority-panel{background:linear-gradient(120deg,#092d2b,#112227);border-color:#175249}
+.priority-icon{color:#00c68e}
+.priority-panel .eyebrow{color:#6aaf9b}
+.priority-panel p{color:#94b7ad}
+.filter{border-color:#2d3d5c;color:#a6b6ce}
+.filter.active{background:#003c365c;border-color:#078663;color:#00d49a}
+input{background:#141c2e;border-color:#2f4161}
+.notice-card{background:#082e29;border-color:#175c4c;color:#8ce5c5}
+.notice-card p{color:#94b7ad}
+.wallet-card{background:linear-gradient(125deg,#07ac7d,#27cda5);color:#032b21}
+.wallet-card .button{background:#063e31;border-color:#063e31;color:#e2fff4}
+.pass-switch{background:#090e1a;border-color:#23304b}
+.pass-switch .active{background:#003c365c;color:#00d49a}
+.safety-banner{background:linear-gradient(100deg,#0a3430,#11252a);border-color:#175249}
+.safety-banner p{color:#94b7ad}
+.blocked-diagram>span{border-color:#00c68e;color:#00d49a}
+.blocked-diagram>span:last-child{border-color:#ff6265;color:#ff868a}
+.blocked-diagram>div,.emergency{color:#ff7276}
+.safety-action{color:#c1cbdc}
+.toast{background:#063e31;border-color:#00a77b;color:#c0ffe6}
+.modal{background:#141c2e;border-color:#2f4161}
+.modal-symbol{background:#00372f;border-color:#008c69;color:#00c68e}
+.amounts button{background:#00372f;border-color:#008c69;color:#00d49a}
+.payment-total strong{color:#00c68e}
+.mobile-nav{background:#141c2ef5;border-color:#23304b}
+.mobile-nav button{color:#9ca3b1}
+.mobile-nav button.active{color:#00cc92}
+.mobile-nav button.active svg{background:#003d38;box-shadow:0 0 0 6px #003d38}
+@media(max-width:650px){.hero{border-radius:11px}.sidebar.open{background:#0d1423}}
